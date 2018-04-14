@@ -5,7 +5,7 @@ If you are part of the **DETHBOMB** hacker group or are working on any projects 
 
 Make sure the files you upload are in folders named appropriately. No IP loggers, viruses or cryptic titles. If anyone uploads any sort of malware into my repo, your code and programs will be shown in the __FOLDER OF SHAME__, and only those aware of the risks are permitted to download such files.
 
-`git clone https://github.com/b4nd1d0br0/AnyRepoYouDesire`
+`git clone https://github.com/b4nd1d0br0/bb_projectRepo` to clone it to you machine in a Unix environment.
 
 __Thanks!__
 
